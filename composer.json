@@ -3,5 +3,7 @@
     "description": "Package for communicating with siridb",
     "type": "library",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "laminas/laminas-modulemanager": "^2.8@dev"
+    }
 }
